@@ -44,6 +44,3 @@ O código está estruturado da seguinte forma:
 
 Sinta-se à vontade para contribuir para o projeto abrindo problemas ou criando solicitações de pull.
 
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
