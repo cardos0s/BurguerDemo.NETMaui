@@ -34,7 +34,8 @@ O código está estruturado da seguinte forma:
 
 ## Capturas de Tela
 
-(Opcional: Inclua capturas de tela do aplicativo em ação.)
+<img width="1385" alt="Captura de Tela 2024-01-22 às 18 45 46" src="https://github.com/jucsantana05/BurguerDemo.NETMaui/assets/139167703/e54c2843-e4ae-4c54-9114-d9052e6c2d64">
+
 
 ## Bibliotecas Utilizadas
 
