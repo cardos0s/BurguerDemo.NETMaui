@@ -1,5 +1,5 @@
-# BurguerDemo.NETMaui
-# Aplicativo de Demonstração de Hambúrguer
+# Cardosos Burguer
+# Layout de Demonstração de Hamburgueria
 
 ## Visão Geral
 
