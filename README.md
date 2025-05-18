@@ -1,4 +1,4 @@
-# Cardosos Burguer
+# Cardoso's Burguer
 # Layout de Demonstração de Hamburgueria
 
 ## Visão Geral
